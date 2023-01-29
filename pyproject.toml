@@ -1,0 +1,22 @@
+[build-system]
+requires = ["colorama", "time"]
+build-backend = ["colorama", "time"]
+
+[project]
+name = "mytix_Mytix"
+version = "0.0.1"
+authors = [
+  { name="Mytix", email="mytixhaha@gmail.com" },
+]
+description = "A small package for success, failed and normal prints"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/mytix9999/mytix"
+"Bug Tracker" = "https://github.com/mytix9999/mytix/issues"
