@@ -6,8 +6,10 @@
 
 
 **⁉ How to use:**
+
 ```pip install mytix_pr```
 
 **ℹInfos:**
+
 [+] Good and easy to use in tools etc, to print fails(errors), success and normal prints with time!
 
