@@ -1,6 +1,6 @@
 **📷 Preview**
 
-![Preview](https://user-images.githubusercontent.com/118541568/215349756-57889afa-b815-49d4-9131-6437a7b5c892.png)
+![Preview](https://user-images.githubusercontent.com/118541568/215365035-1a2091e5-e178-438b-9a56-9378fb410897.png)![grafik](https://user-images.githubusercontent.com/118541568/215365036-99b3030c-78ad-40d6-af9b-dc960396c402.png)
 
 *The preview is from ``example.py``*
 
