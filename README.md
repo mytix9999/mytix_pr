@@ -1,6 +1,6 @@
 **📷 Preview**
 
-![Preview](https://user-images.githubusercontent.com/118541568/215365035-1a2091e5-e178-438b-9a56-9378fb410897.png)
+![Preview](https://cdn.discordapp.com/attachments/1069466788376608869/1070842781720907776/image.png)
 *The preview is from ``example.py``*
 
 
